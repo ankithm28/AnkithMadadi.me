@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: AnkithMadadi.me
+Token: 374fe426618c005fcb6b3513553a79d12ded3507280344270a3c3083ed7c6e5b
