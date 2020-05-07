@@ -3,7 +3,7 @@
  - Also change the location of where the profile pick is located (currently in Github Section)
 ## Forking Note
 
-If you fork this repo, please change the **form action** to an email address you own before trying it out. [Thaaaanks!](https://i.imgur.com/TpBVEjv.jpg)
+If you fork this repo, please change the **form action** to an email address you own before trying it out. [Thanks!]
 
 ```
 <form action="https://formspree.io/your-email@here.com" method="POST" class="form-horizontal" role="form">
