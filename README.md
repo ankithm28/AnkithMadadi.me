@@ -13,8 +13,7 @@ Built with:
 [Bootstrap](http://getbootstrap.com/) for CSS  
 [jQuery](https://jquery.com/) for JS  
 [namecheap](https://www.namecheap.com/) for the domain  
-[GitHub Pages](https://pages.github.com/) for hosting  
-[CloudFlare](https://www.cloudflare.com/) for the SSL cert and fancy green lock :lock:  
+[GitHub Pages](https://pages.github.com/) for hosting
 [git](https://git-scm.com/) for source control
 
 Based on the
