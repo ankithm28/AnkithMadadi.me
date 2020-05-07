@@ -1,4 +1,4 @@
-##TODO: 
+## TODO: 
  - Fix the header image so that it isn't pixilated
  - Also change the location of where the profile pick is located (currently in Github Section)
 ## Forking Note
