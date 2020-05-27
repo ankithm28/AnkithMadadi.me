@@ -3,6 +3,10 @@
 - Add formspree to contact page
 - Edit placeholder images with real images!
 - Add resume to the website
+- Update .env file
+- Update Data
+- Update Fun Facts
+- Add social Media tags
 
 ## Forking Note
 
