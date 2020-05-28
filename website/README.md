@@ -9,7 +9,7 @@
 - Update Data
 - Update Fun Facts
 - Add social Media tags
-- Finish TODOs when Searched
+- Update Colors/Theme
 
 ## Forking Note
 
