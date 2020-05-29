@@ -4,7 +4,7 @@ const data = [
     title: 'ChatPlane',
     subtitle: 'End to End Encryption mobile chat with voice and video calling',
     link: '',
-    image: '/images/projects/',
+    image: '/images/projects/messenger.png',
     date: '2015-11-20',
     desc: 'An End to End Encryption Mobile Chat app built with Swift, Firebase, and Sinch Service'
       + 'The app uses AES 256 bit end to end encryption and also includes voice/video chat '

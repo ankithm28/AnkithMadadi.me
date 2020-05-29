@@ -1,15 +1,10 @@
 
 #### Intro
-// TODO: ADD an Intro
-Introduction
+Hi, I&apos;m Ankith. I am a student at Lynbrook High School in the class of 2023. I love to program and code in my free time. I also participate in multiple clubs on campus.
 <br>
-// TODO: ADD a description
-Description
+I like to work with a variety of frameworks and languages.
 <br><br>
-#### Currently
-
-<br><br>
-#### Some history
+<!-- #### Some history
 
 - 
 - 
@@ -20,32 +15,24 @@ Description
 - 
 - 
 - 
-- 
+-  
+-->
 
 
 You can ask me in person for other stories that I'm afraid to share with the internet.
 <br><br>
-#### I like to
-- 
--
--
-- 
-- 
-- 
-- 
+#### I like
+- Coding
+- Hiking and Going Camping
+- Exploring Nature
+- Traveling Around the World
+- Watching Basketball and Football
+- Watching and Learning About Space
+- Working with Electronics
+- Listening to Music
+- Sleeping
 
-#### Travel / Geography
-
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-
-
-#### Fun facts
+<!-- #### Travel / Geography
 
 - 
 - 
@@ -53,13 +40,22 @@ You can ask me in person for other stories that I'm afraid to share with the int
 - 
 - 
 - 
+-  -->
+
+
+<!-- #### Fun facts
+
 - 
+- 
+- 
+- 
+- 
+- 
+-  -->
 
 #### I dream of
 
-- 
-- 
-- 
-- 
-- 
-- 
+- Becoming a Software Engineer
+- Going into Space
+- Exploring the World
+- Visting all the National Parks

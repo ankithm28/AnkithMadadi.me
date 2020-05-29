@@ -13,7 +13,7 @@ const data = [
     icon: faGithub,
   },
   {
-    link: 'https://www.facebook.com/https://www.facebook.com/ankith.madadi.5/posts/111737353378376?__cft__[0]=AZX3OhgBGOD4TB3ejrES6oh_Dy6FXs7ifAI5dR_GQFl6Ey1C7JTmq9UUsoUP7UNdR3y2mvgqq-E0xO2I6mmiYxHu7QmcEYe94lZQeChYhWsZ9CauM4z3b-3wmr9__y2XOso&__tn__=%2CO%2CP-R/',
+    link: 'https://www.facebook.com/https://www.facebook.com/ankith.madadi.5/',
     label: 'Facebook',
     icon: faFacebook,
   },
