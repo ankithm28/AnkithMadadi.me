@@ -48,10 +48,10 @@ const data = [
     value: dayjs().format('MMMM D, YYYY'),
     link: 'https://github.com/monkeyank/AnkithMadadi.me/commits',
   },
-  { /* find . | grep ".js" | grep -vE ".min.js|node_modules|.git|.json" |
+  { /* Command to find lines of JavaScript: find . | grep ".js" | grep -vE ".min.js|node_modules|.git|.json" |
     xargs -I file cat file | wc -l */
     label: 'Lines of Javascript powering this website',
-    value: '2625',
+    value: '1730',
     link: 'https://github.com/monkeyank/AnkithMadadi.me/graphs/contributors',
   },
 ];

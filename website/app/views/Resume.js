@@ -30,6 +30,8 @@ const Resume = () => (
       <header>
         <div className="title">
           <h2><Link to="resume">Resume</Link></h2>
+          <a class="nav-link js-scroll-trigger" href="/images/resume.pdf">A PDF Version of my Resume</a>
+          <p></p>
           <div className="link-container">
             {sections.map((sec) => (
               <h4 key={sec}>
