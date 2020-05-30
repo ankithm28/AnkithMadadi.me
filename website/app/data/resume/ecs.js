@@ -1,5 +1,5 @@
-// TODO: Maybe Add courses
-const courses = [
+// TODO: Maybe Add ecs
+const ecs = [
   {
     title: 'Example',
     number: 'Example',
@@ -8,4 +8,4 @@ const courses = [
   }, 
 ];
 
-export default courses;
+export default ecs;
