@@ -1,6 +1,6 @@
 
 #### Intro
-Hi, I&apos;m Ankith. I am a student at Lynbrook High School in the class of 2023. I love to program and code in my free time. I also participate in multiple clubs on campus.
+Hi, I&apos;m Ankith. I am a student at Lynbrook High School in the class of 2023. I love to code in my free time. I also participate in multiple clubs on campus.
 <br>
 I like to work with a variety of frameworks and languages.
 <br><br>

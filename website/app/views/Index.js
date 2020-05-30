@@ -16,10 +16,10 @@ const Index = () => (
         or you can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
+        view my <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
-      <p> Source available <a href="https://github.com/monkeyank/AnkithMadadi.me">here</a>.</p>
+      <p> Source Code available <a href="https://github.com/monkeyank/AnkithMadadi.me">here</a>!</p>
     </article>
   </Main>
 );
