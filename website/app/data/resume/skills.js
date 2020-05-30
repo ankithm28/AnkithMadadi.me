@@ -7,22 +7,37 @@ const skills = [{
 },
 {
   title: 'Node.JS',
-  competency: 3,
+  competency: 4,
   category: ['Web Development', 'Javascript'],
 },
 {
   title: 'Swift',
-  competency: 3,
+  competency: 5,
   category: ['Mobile Development', 'Languages'],
 },
 {
-  title: 'React',
+  title: 'Java',
+  competency: 5,
+  category: ['Mobile Development', 'Languages'],
+},
+{
+  title: 'Objective-C',
+  competency: 2,
+  category: ['Mobile Development', 'Languages'],
+},
+{
+  title: 'Kotlin',
   competency: 3,
+  category: ['Languages'],
+},
+{
+  title: 'React',
+  competency: 4,
   category: ['Web Development', 'Javascript'],
 },
 {
   title: 'React Native',
-  competency: 3,
+  competency: 5,
   category: ['Mobile Development', 'Javascript'],
 },
 
@@ -33,7 +48,7 @@ const skills = [{
 },
 {
   title: 'Amazon Web Services',
-  competency: 4,
+  competency: 2,
   category: ['Web Development', 'Tools'],
 },
 {
@@ -53,7 +68,7 @@ const skills = [{
 },
 {
   title: 'Redis',
-  competency: 3,
+  competency: 2,
   category: ['Web Development', 'Databases'],
 },
 {
@@ -68,7 +83,7 @@ const skills = [{
 },
 {
   title: 'Git',
-  competency: 3,
+  competency: 5,
   category: ['Tools'],
 },
 {
@@ -78,8 +93,8 @@ const skills = [{
 },
 {
   title: 'Numpy',
-  competency: 3,
-  category: ['Data Science', 'Data Engineering', 'Python'],
+  competency: 1,
+  category: ['Data Science', 'Python'],
 },
 {
   title: 'Tensorflow + Keras',
@@ -93,7 +108,7 @@ const skills = [{
 },
 {
   title: 'Typescript',
-  competency: 2,
+  competency: 4,
   category: ['Web Development', 'Languages', 'Javascript'],
 },
 {
@@ -113,7 +128,7 @@ const skills = [{
 },
 {
   title: 'R',
-  competency: 2,
+  competency: 3,
   category: ['Languages'],
 },
 {
@@ -128,18 +143,18 @@ const skills = [{
 },
 {
   title: 'Pandas',
-  competency: 5,
-  category: ['Data Engineering', 'Data Science', 'Python'],
+  competency: 2,
+  category: [ 'Data Science', 'Python'],
 },
 {
   title: 'Matplotlib',
-  competency: 3,
-  category: ['Data Engineering', 'Data Science', 'Python'],
+  competency: 2,
+  category: [ 'Data Science', 'Python'],
 },
 {
   title: 'Scikit-Learn',
-  competency: 4,
-  category: ['Data Engineering', 'Data Science', 'Python'],
+  competency: 2,
+  category: [ 'Data Science', 'Python'],
 },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
@@ -148,7 +163,6 @@ const skills = [{
 const colors = [
   '#6968b3',
   '#37b1f5',
-  '#40494e',
   '#515dd4',
   '#e47272',
   '#cc7b94',

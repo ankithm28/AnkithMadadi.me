@@ -43,15 +43,15 @@ You can ask me in person for other stories that I'm afraid to share with the int
 -  -->
 
 
-<!-- #### Fun facts
+#### Fun facts
 
+- I include way too many ! points in my sentences!
 - 
 - 
 - 
 - 
 - 
 - 
--  -->
 
 #### I dream of
 
