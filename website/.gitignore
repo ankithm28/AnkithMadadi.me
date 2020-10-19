@@ -1,0 +1,30 @@
+# npm related 
+yarn.lock
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Enviromental
+.env
+
+# Compiled binary addons
+build/Release
+
+# Users Environment Variables
+.lock-wscript
+
+# Webpack related
+public/dist/
+dist/
+tmp/
+build/
+
+# VSCODE
+.DS_Store
+

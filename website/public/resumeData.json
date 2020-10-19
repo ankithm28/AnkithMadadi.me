@@ -1,0 +1,162 @@
+{
+  "main": {
+    "name":"Ankith Madadi",
+    "occupation":"Software Engineer",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":"A high school student who loves to code and work with others to develop amazing things! In my free time I love to go hiking and watch sports!",
+    "contactmessage":"Please contact me at ankithm28@gmail.com, on Linkedin, or this form!",
+    "email": "ankithm28@gmail.com",
+    "phone": "(650)-880-9308",
+    "address":{
+      "street":"5554 Castle Glen Ave",
+      "city":"San Jose",
+      "state":"CA",
+      "zip": "95129"
+    },
+    "website": "http://www.ankithmadadi.me",
+    "resumedownload":"http://ankithmadadi.me",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ankithmadadi/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/monkeyank",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here's a quick list of things I love to work with!",
+    "education":[
+      {
+        "school":"Lynbrook High School",
+        "degree":"High School",
+        "graduated":"June 2023",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Covidopoly",
+        "title":"Software Intern",
+        "years":"March 2020 - Present",
+        "description":"Worked on creating a mobile app, while currently working on improving frontend and backend features of the website along with UX/UI team, marketing, and sounds designer."
+      },
+      {
+        "company":"Beroundup",
+        "title":"Software Developer",
+        "years":"September 2019 - March 2020",
+        "description":"Worked on an app to compliment the website for car show ticketing. Also, built a mobile app (Built with React Native) and backend (Built with Node.js) that shows crowded areas as restrictions start to ease due to COVID-19."
+      },
+      {
+        "company":"FRC Robotics (Popcorn Penguins Team 6238) and (Lynbrook Robotics Team 846)",
+        "title":"Secretary and Software Member",
+        "years":" October 2018 - June 2019 and September 2019 - Present",
+        "description":"Worked on writing teleoperated code for the robot, the live dashboard for the robot and vision system for our robot. In addition, I have presented to the community on robotics topics. As Secretary I am in charge of administrative tasks."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Swift"
+      },
+      {
+        "name":"Java"
+      },
+      {
+        "name":"JavaScript"
+      },
+      {
+        "name":"TypeScript"
+      },
+      {
+        "name":"Node.js"
+      },
+      {
+        "name":"React"
+      },
+      {
+        "name":"React Native"
+      },
+      {
+        "name":"Git"
+      },
+      {
+        "name":"Python"
+      },
+      {
+        "name":"Kotlin"
+      },
+      {
+        "name":"HTML"
+      },
+      {
+        "name":"CSS"
+      },
+      {
+        "name":"And More"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Shapezoid",
+        "category":"A game built with Apple's Spritekit and Swift using textures,trajectories/paths, and more.",
+        "image":"shapezoid.png",
+        "url":"https://apps.apple.com/us/app/shapezoid/id1507022672"
+      },
+      {
+        "title":"ChatPlane",
+        "category":"An end to end encryption messaging app created using Swift and RNCryptor and Crypto Swift. This also supports voice and video callingover https",
+        "image":"messenger.png",
+        "url":"https://github.com/Monkeyank/Messenger-new"
+      },
+      {
+        "title":"RouteSafe",
+        "category":"Worked with Beroundup to create an app providing info on crowded areas to help small businesses during COVID-19. I created the backend as well as the frontend to find areas that are busy and can accommodate more people under social distancing guidelines. Utilized MapBox's API, Google Data, MIT's COVID Safe Paths and adds aggregates user data. It includes built in privacy features such as location blacklisting.",
+        "image":"routesafe.png",
+        "url":"https://github.com/Monkeyank/Live-Data"
+      },
+      {
+        "title":"REAP",
+        "category":"Residential Electricity Analyzer and Predictor. Synopsys Science Fair project using R and Python to predict residential electricity prices. The model selects the 25 most influential factors from 100 factors provided by the US Energy Department using a random forest classifier, then applies them by importance.",
+        "image":"reap.jpg",
+        "url":"https://github.com/Monkeyank/Residential_Electricity_Consuption_Machine_Learning_Project"
+      },
+      {
+        "title":"Boxed",
+        "category":"A MacOS app using shortcuts to easily move windows, similar to thepopular app Magnet.",
+        "image":"boxed.png",
+        "url":"https://github.com/Monkeyank/Boxed"
+      },
+      {
+        "title":"Github Contributions Menu Bar",
+        "category":"A MacOS menu bar app to display your GitHub Contributions.",
+        "image":"githubcontributions.png",
+        "url":"https://github.com/Monkeyank/GithubContributionsMacMenuBar"
+      },
+      {
+        "title":"Night Shift Menu Bar",
+        "category":"A MacOS menu bar app built to easily access Night Shift",
+        "image":"night-shift.png",
+        "url":"https://github.com/Monkeyank/Mac-Menu-Bar-Night-Shift-"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
