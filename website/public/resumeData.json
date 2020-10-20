@@ -129,7 +129,7 @@
       },
       {
         "title":"Boxed",
-        "category":"A MacOS app using shortcuts to easily move windows, similar to thepopular app Magnet.",
+        "category":"A MacOS app using shortcuts to easily move windows, similar to the popular app Magnet.",
         "image":"boxed.png",
         "url":"https://github.com/Monkeyank/Boxed"
       },
@@ -141,7 +141,7 @@
       },
       {
         "title":"Night Shift Menu Bar",
-        "category":"A MacOS menu bar app built to easily access Night Shift",
+        "category":"A MacOS menu bar app built to easily access Night Shift.",
         "image":"night-shift.png",
         "url":"https://github.com/Monkeyank/Mac-Menu-Bar-Night-Shift-"
       }
@@ -150,12 +150,12 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"",
+        "user":""
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"",
+        "user":""
       }
     ]
   }
