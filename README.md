@@ -1,7 +1,9 @@
 # AnkithMadadi.me
 My personal website!
 
-
+Deploying:
+1. `npm run build`
+2. `npx gh-pages -d build`
 
 TODO:
 
