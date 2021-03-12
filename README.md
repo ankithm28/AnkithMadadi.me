@@ -8,6 +8,7 @@ Deploying:
 TODO:
 
 - Add Typing.js
+- Update Experience (Ethi/Menon Labs + Wink)
 - Update Resume 
 - Update layouts
 - Add some fancy styling for cards
