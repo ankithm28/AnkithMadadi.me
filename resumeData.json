@@ -41,10 +41,32 @@
     ],
     "work":[
       {
+        "company":"Fig",
+        "title":"Core Contributor (as a contractor)",
+        "years":"June 2021-Present",
+        "description":"Worked on contributing to completion specs and research projects for the macOS app. Worked on getting the cursor position on apps not exposed via the accessibility API to expand fig to more terminals.",
+        "link": "https://fig.io"
+      },
+      {
+        "company":"Wink",
+        "title":"Founding Engineer",
+        "years":"Feb 2021 - May 2021",
+        "description":"Built the mobile app and portions of the backend for Wink, a next generation dating app.",
+        "link": "https://wink.co"
+      },
+      {
+        "company":"Ethi through Menon Labs",
+        "title":"Software Fellowship",
+        "years":"Novemeber 2021 - January 2021",
+        "description":"Worked on visualizing complex Facebook and Facebook Messenger data for Ethi through the Menon Labs Program. Chosen as one of the finalists in the Menon Labs program.",
+        "link": "https://ethi.me"
+      },
+      {
         "company":"Covidopoly",
         "title":"Software Intern",
-        "years":"March 2020 - Present",
-        "description":"Worked on creating a mobile app, while currently working on improving frontend and backend features of the website along with UX/UI team, marketing, and sounds designer."
+        "years":"March 2020 - Feb 2021",
+        "description":"Worked on creating a mobile app, while currently working on improving frontend and backend features of the website along with UX/UI team, marketing, and sounds designer. Has been played 1 million + times, with tens of thousands of users.",
+        "link": "https://ethi.me"
       },
       {
         "company":"Beroundup",
@@ -56,7 +78,8 @@
         "company":"FRC Robotics (Popcorn Penguins Team 6238) and (Lynbrook Robotics Team 846)",
         "title":"Secretary and Software Member",
         "years":" October 2018 - June 2019 and September 2019 - Present",
-        "description":"Worked on writing teleoperated code for the robot, the live dashboard for the robot and vision system for our robot. In addition, I have presented to the community on robotics topics. As Secretary I am in charge of administrative tasks."
+        "description":"Worked on writing teleoperated code for the robot, the live dashboard for the robot and vision system for our robot. In addition, I have presented to the community on robotics topics. As Secretary I am in charge of administrative tasks.",
+        "link": "https://lynbrookrobotics.com"
       }
     ],
     "skills":[
